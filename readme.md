@@ -77,7 +77,3 @@ Text Editor is a simple console-based program that allows users to create, open,
     ```
     ./text_editor
     ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
